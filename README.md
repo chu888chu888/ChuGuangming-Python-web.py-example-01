@@ -1,7 +1,7 @@
-��װweb.py
+﻿安装web.py
 easy_install web.py
 
-��ѹ������ web �ļ��е����Ӧ�ó���Ŀ¼��
+解压并拷贝 web 文件夹到你的应用程序目录下
 python code.py
 
-�������������� http://localhost:8080/
+打开你的浏览器输入 http://localhost:8080/
